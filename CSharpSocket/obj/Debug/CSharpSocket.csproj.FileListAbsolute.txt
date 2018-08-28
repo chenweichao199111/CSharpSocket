@@ -1,0 +1,6 @@
+D:\CWC\GitHub\CSharpSocket\CSharpSocket\bin\Debug\CSharpSocket.exe
+D:\CWC\GitHub\CSharpSocket\CSharpSocket\bin\Debug\CSharpSocket.pdb
+D:\CWC\GitHub\CSharpSocket\CSharpSocket\obj\Debug\CSharpSocket.csprojAssemblyReference.cache
+D:\CWC\GitHub\CSharpSocket\CSharpSocket\obj\Debug\CSharpSocket.csproj.CoreCompileInputs.cache
+D:\CWC\GitHub\CSharpSocket\CSharpSocket\obj\Debug\CSharpSocket.exe
+D:\CWC\GitHub\CSharpSocket\CSharpSocket\obj\Debug\CSharpSocket.pdb
