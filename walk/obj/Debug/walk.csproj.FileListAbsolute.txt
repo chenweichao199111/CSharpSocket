@@ -1,0 +1,6 @@
+D:\CWC\GitHub\CSharpSocket\walk\bin\Debug\walk.exe
+D:\CWC\GitHub\CSharpSocket\walk\bin\Debug\walk.pdb
+D:\CWC\GitHub\CSharpSocket\walk\obj\Debug\walk.csprojAssemblyReference.cache
+D:\CWC\GitHub\CSharpSocket\walk\obj\Debug\walk.csproj.CoreCompileInputs.cache
+D:\CWC\GitHub\CSharpSocket\walk\obj\Debug\walk.exe
+D:\CWC\GitHub\CSharpSocket\walk\obj\Debug\walk.pdb

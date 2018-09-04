@@ -13,3 +13,6 @@ E:\CWC\KeJun\GitHub\CSharpSocket\CSharpSocket\bin\Debug\CSharpSocket.exe
 E:\CWC\KeJun\GitHub\CSharpSocket\CSharpSocket\bin\Debug\CSharpSocket.pdb
 E:\CWC\KeJun\GitHub\CSharpSocket\CSharpSocket\bin\Debug\MySql.Data.dll
 E:\CWC\KeJun\GitHub\CSharpSocket\CSharpSocket\bin\Debug\Google.Protobuf.dll
+D:\CWC\GitHub\CSharpSocket\CSharpSocket\bin\Debug\CSharpSocket.exe.config
+D:\CWC\GitHub\CSharpSocket\CSharpSocket\bin\Debug\Google.Protobuf.dll
+D:\CWC\GitHub\CSharpSocket\CSharpSocket\obj\Debug\CSharpSocket.csproj.CopyComplete
